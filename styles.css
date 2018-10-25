@@ -1,0 +1,19 @@
+ @import url('https://fonts.googleapis.com/css?family=Baumans');
+
+body {
+  background: #151515;
+}
+
+#cat {
+  margin-top: 20%;
+}
+
+#scp {
+  font-size: 45px;
+  width:25%;
+  text-align: center;
+  background-color: #151515;
+  border: none;
+  color: #EEEEEE;
+  font-family: 'Baumans', cursive;
+}
