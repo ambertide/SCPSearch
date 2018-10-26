@@ -1,3 +1,7 @@
+entry_f = document.getElementById('scp');
+entry_f.focus();
+entry_f.select();
+
 function scpQuerry(key) {
   entry_ = document.getElementById('scp');
   scp_number = entry_.value;
